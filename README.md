@@ -1,6 +1,6 @@
 This is where I learn how to write code in Python. I started this repository as a practice space for Machine Learning.
 
-During the first few phases, there will be an absence of Machine Learning concepts. This is because Python is a new language to me, so I will be building my foundation ground up.
+During the first few phases, there will be an absence of Machine Learning concepts. This is because Python is a new language to me, so I will be building my foundation from the ground up.
 
 The first few phases will contain basic concepts illustrated through exercises. In each one of those exercises, the requirements will already be included in the file itself. 
 
